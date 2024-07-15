@@ -13,7 +13,7 @@
 
 2. Clone the repository:
 
-  git clone https://github.com/hemanth8660/task-manager.git
+git clone https://github.com/varunschaudhari/Task-Manager.git
   cd task-manager
 
 3. Install the dependencies:
