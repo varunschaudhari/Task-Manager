@@ -8,5 +8,6 @@ app.use('/api', routes);
 
 app.listen(PORT, () => {
     console.log('Server is listening on ', PORT);
-})
+});
 
+module.exports = app;
